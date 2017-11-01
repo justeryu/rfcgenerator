@@ -1,0 +1,11 @@
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\obj\Debug\RfcGenerator.Winform.Form1.resources
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\obj\Debug\RfcGenerator.Winform.Properties.Resources.resources
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\obj\Debug\RfcGenerator.Winform.csproj.GenerateResource.Cache
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\obj\Debug\RfcGenerator.Winform.csproj.CoreCompileInputs.cache
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\bin\Debug\RfcGenerator.Winform.exe.config
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\bin\Debug\RfcGenerator.Winform.exe
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\bin\Debug\RfcGenerator.Winform.pdb
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\bin\Debug\sapnco.dll
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\bin\Debug\sapnco_utils.dll
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\obj\Debug\RfcGenerator.Winform.exe
+C:\Users\muhammet\Documents\Github\rfcgenerator\RfcGenerator\RfcGenerator.Winform\obj\Debug\RfcGenerator.Winform.pdb

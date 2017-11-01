@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfcGenerator.Winform", "RfcGenerator.Winform\RfcGenerator.Winform.csproj", "{53727191-E765-4217-9B53-F60E3456CA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53727191-E765-4217-9B53-F60E3456CA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53727191-E765-4217-9B53-F60E3456CA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53727191-E765-4217-9B53-F60E3456CA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53727191-E765-4217-9B53-F60E3456CA78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF80C6BB-7FD4-45F0-98F9-C7FBD9A731D8}
+	EndGlobalSection
+EndGlobal
